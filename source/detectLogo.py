@@ -96,4 +96,5 @@ for (imagePath) in glob.glob(testPath + "/*.*"):
         # If Image couldn't be Read
         print(imagePath)
         print("Test Image couldn't be read")
+        print("Test Image couldn't be read")
 
